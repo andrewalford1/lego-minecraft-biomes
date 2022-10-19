@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lego-minecraft-biomes/precache-manifest.727ecd3e6a93967d1fcc204d62f9e49d.js"
+  "/lego-minecraft-biomes/precache-manifest.50c775db8f2a69abdeb76519f312fb4a.js"
 );
 
 workbox.clientsClaim();
