@@ -10,6 +10,7 @@ function App() {
       
       <Navigation/>
 
+      <hr/>
       <Footer/>
     </div>
   );
