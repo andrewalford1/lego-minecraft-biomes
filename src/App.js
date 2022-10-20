@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Navigation from './components/Navigation/Navigation';
 import Footer from './components/Footer/Footer';
+import PageSelection from './PageSelection';
 
 function App() {
   return (
@@ -9,6 +10,9 @@ function App() {
       <h1>Lego Minecraft Biomes</h1>
       
       <Navigation/>
+      <hr/>
+
+      <PageSelection />
 
       <hr/>
       <Footer/>
