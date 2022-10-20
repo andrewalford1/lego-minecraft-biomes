@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Navigation from './components/Navigation/Navigation';
-import Footer from './components/Footer/Footer';
+import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 import PageSelection from './PageSelection';
 
 function App() {

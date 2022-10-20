@@ -1,7 +1,7 @@
 import React from 'react';
-import Gallery from '../components/Gallery/Gallery';
-import Showcase from '../components/Showcase/Showcase';
-import About from '../components/About/About';
+import Gallery from '../components/Gallery';
+import Showcase from '../components/Showcase';
+import About from '../components/About';
 
 function Home() {
     return (

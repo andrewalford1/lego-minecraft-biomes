@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from '../Link/Link';
+import Link from './Link';
 
 function BuildLink() {
     const href = "https://www.youtube.com/c/CheeseyStudios/featured";
