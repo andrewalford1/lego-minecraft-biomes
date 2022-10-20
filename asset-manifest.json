@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lego-minecraft-biomes/static/css/main.073c9b0a.css",
-    "main.js": "/lego-minecraft-biomes/static/js/main.4361d49c.js",
+    "main.css": "/lego-minecraft-biomes/static/css/main.46644293.css",
+    "main.js": "/lego-minecraft-biomes/static/js/main.8160623f.js",
     "index.html": "/lego-minecraft-biomes/index.html",
-    "main.073c9b0a.css.map": "/lego-minecraft-biomes/static/css/main.073c9b0a.css.map",
-    "main.4361d49c.js.map": "/lego-minecraft-biomes/static/js/main.4361d49c.js.map"
+    "main.46644293.css.map": "/lego-minecraft-biomes/static/css/main.46644293.css.map",
+    "main.8160623f.js.map": "/lego-minecraft-biomes/static/js/main.8160623f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4361d49c.js"
+    "static/css/main.46644293.css",
+    "static/js/main.8160623f.js"
   ]
 }
