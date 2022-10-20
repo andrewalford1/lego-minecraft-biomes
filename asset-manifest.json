@@ -1,13 +1,13 @@
 {
-  "main.css": "/lego-minecraft-biomes/static/css/main.eb97b0d8.chunk.css",
-  "main.js": "/lego-minecraft-biomes/static/js/main.1cd3d8b9.chunk.js",
-  "main.js.map": "/lego-minecraft-biomes/static/js/main.1cd3d8b9.chunk.js.map",
-  "runtime~main.js": "/lego-minecraft-biomes/static/js/runtime~main.c0179cd7.js",
-  "runtime~main.js.map": "/lego-minecraft-biomes/static/js/runtime~main.c0179cd7.js.map",
-  "static/js/2.88d6478e.chunk.js": "/lego-minecraft-biomes/static/js/2.88d6478e.chunk.js",
-  "static/js/2.88d6478e.chunk.js.map": "/lego-minecraft-biomes/static/js/2.88d6478e.chunk.js.map",
-  "index.html": "/lego-minecraft-biomes/index.html",
-  "precache-manifest.50c775db8f2a69abdeb76519f312fb4a.js": "/lego-minecraft-biomes/precache-manifest.50c775db8f2a69abdeb76519f312fb4a.js",
-  "service-worker.js": "/lego-minecraft-biomes/service-worker.js",
-  "static/css/main.eb97b0d8.chunk.css.map": "/lego-minecraft-biomes/static/css/main.eb97b0d8.chunk.css.map"
+  "files": {
+    "main.css": "/lego-minecraft-biomes/static/css/main.073c9b0a.css",
+    "main.js": "/lego-minecraft-biomes/static/js/main.4361d49c.js",
+    "index.html": "/lego-minecraft-biomes/index.html",
+    "main.073c9b0a.css.map": "/lego-minecraft-biomes/static/css/main.073c9b0a.css.map",
+    "main.4361d49c.js.map": "/lego-minecraft-biomes/static/js/main.4361d49c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4361d49c.js"
+  ]
 }
