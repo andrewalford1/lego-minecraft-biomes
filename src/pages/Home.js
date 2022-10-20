@@ -1,10 +1,12 @@
 import React from 'react';
 import Gallery from '../components/Gallery/Gallery';
 import Showcase from '../components/Showcase/Showcase';
+import About from '../components/About/About';
 
 function Home() {
     return (
         <div>
+            <About/>            
             <h3>Gallery</h3>
             <Gallery/>
 
